@@ -35,7 +35,6 @@ align-items: center;
 
 .button {
     font-size: 1.5e m;
-    cursor: pointer;
 }
 .button-navigate{
     font-size: 3em;
@@ -71,7 +70,7 @@ align-items: center;
     height: 3px;
     width: 100%;
     border-radius: 15px;
-    
+    margin-bottom: 1em;
    
 }
 
@@ -81,18 +80,4 @@ align-items: center;
     height: inherit;
     width: var(--progress);
     border-radius: inherit;
-}
-#progress-container {
- cursor: pointer;
-}
-
-.button-active {
-    color: rgb(0, 128, 62); 
-}
-#time-box{
- display: flex;
- flex-direction:row;
- justify-content: space-between;
- font-size: smaller;
- margin-top: 0.5em;
 }
