@@ -17,7 +17,7 @@
 - Para a interface gráfica, utilizei JavaFX e Scene Builder
 - Tecnologias: Java, javaFX e Scene Builder 
 
-🔹 [**CRUD em Spring Boot**](https://github.com/vitoriarodrigs/vitoriarodrigs)  
+🔹 [**Site que simula um tocador de música do Spotify**](https://github.com/vitoriarodrigs/vitoriarodrigs)  
 -  Um site que simula um tocador de música do Spotify.  
 - Tecnologias: HTML, CSS e JavaScript.  
 
