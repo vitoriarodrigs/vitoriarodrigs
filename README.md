@@ -16,7 +16,9 @@
 
 🔹 [**Site que simula um tocador de música do Spotify**](https://github.com/vitoriarodrigs/vitoriarodrigs)  
 -  Um site que simula um tocador de música do Spotify.  
-- Tecnologias: HTML, CSS e JavaScript.  
+- Tecnologias: HTML, CSS e JavaScript.
+
+- 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriarodrigs&layout=compact&theme=synthwave)
 
 ### 📫 **Como me encontrar**  
