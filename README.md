@@ -18,7 +18,7 @@
 -  Um site que simula um tocador de música do Spotify.  
 - Tecnologias: HTML, CSS e JavaScript.  
 
-![Vitoriarodrigs GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=synthwave)
+![Vitoriarodrigs GitHub stats](https://github-readme-stats.vercel.app/api?username=vitoriarodris&theme=dracula_icons=true)
 
 ### 📫 **Como me encontrar**  
 
