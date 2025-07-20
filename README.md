@@ -5,7 +5,7 @@
 🚀 Foco Atual: Dominando Stream API, Spring Boot e programação orientada a objetos  
 
 ### 🛠 **Tecnologias e Ferramentas**  
-[![My Skills](https://skillicons.dev/icons?i=)](https:git,html,css,js,java,spring,postgres,docker,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,html,css,js,java,spring,postgres,docker,react)](https://skillicons.dev)
 
 
 ### 📌 **Projetos Destacados**  
