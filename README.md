@@ -10,6 +10,12 @@
 
 ### 📌 **Projetos Destacados**  
 
+🔹 [**Foodexpress**](https://github.com/vitoriarodrigs/Foodexpress)  
+- Sistema de delivery de comida, simples e funcional, onde usuários podem pedir comida, restaurantes gerenciam seus cardápios e entregadores veem pedidos para entrega.
+- Front-end: React (Vite) + JavaScript
+- Back-end: Spring Boot, Spring Data JPA, PostgreSQL
+- Banco: PostgreSQL
+
 🔹 [**Jogo de Tabuleiro**](https://github.com/vitoriarodrigs/Jogodetabuleiro/tree/main/src/main/java/com/example/jogo/tabuleiro)  
 - Para a interface gráfica, utilizei JavaFX e Scene Builder
 - Tecnologias: Java, javaFX e Scene Builder 
