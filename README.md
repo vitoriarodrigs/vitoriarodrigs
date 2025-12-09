@@ -2,7 +2,7 @@
 
 💻 **Desenvolvedora em Formação** | 🎓 **Ciência da Computação - UECE 
 🌱 **Aprendendo**: JAVA
-🚀 Foco Atual: Dominando Stream API, Spring Boot e programação orientada a objetos  
+🚀 Foco Atual: Estudando Inteligencia Artificial e Desenvolvimento de Agentes 
 
 ### 🛠 **Tecnologias e Ferramentas**  
 [![My Skills](https://skillicons.dev/icons?i=git,html,css,js,java,spring,postgres,docker,react)](https://skillicons.dev)
