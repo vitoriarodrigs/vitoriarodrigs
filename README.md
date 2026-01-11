@@ -5,7 +5,7 @@
 🚀 Foco Atual: Estudando Inteligencia Artificial e Desenvolvimento de Agentes 
 
 ### 🛠 **Tecnologias e Ferramentas**  
-[![My Skills](https://skillicons.dev/icons?i=git,html,css,js,java,spring,postgres,docker,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,html,css,js,java,spring,postgres,docker,react,python)](https://skillicons.dev)
 
 
 ### 📌 **Projetos Destacados**  
