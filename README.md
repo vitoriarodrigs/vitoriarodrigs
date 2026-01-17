@@ -1,7 +1,6 @@
 # 👋 Olá, eu sou a Vitória Rodrigues!  
 
 💻 **Desenvolvedora em Formação** | 🎓 **Ciência da Computação - UECE 
-🌱 **Aprendendo**: JAVA
 🚀 Foco Atual: Estudando Inteligencia Artificial e Desenvolvimento de Agentes 
 
 ### 🛠 **Tecnologias e Ferramentas**  
