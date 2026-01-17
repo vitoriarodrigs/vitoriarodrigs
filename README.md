@@ -9,11 +9,19 @@
 
 
 ### 📌 **Projetos Destacados**  
+🔹 [**🤖 Agente-RAG-Local**](https://github.com/vitoriarodrigs/Local-RAG-Agent)  
+-  um agente de IA local em Python capaz de responder perguntas com base em documentos PDF armazenados na máquina , utilizando arquitetura RAG (Retrieval-Augmented Generation).
+- Linguagem: Python 3.12
+- Interface Web: Streamlit
+- Orquestração: LangChain
+- IA Local:	Lhama 3 e Phi-3 via Ollama
+- Banco Vetorial:	FAISS
+
 
 🔹 [**Foodexpress**](https://github.com/vitoriarodrigs/Foodexpress)  
 - Sistema de delivery de comida, simples e funcional, onde usuários podem pedir comida, restaurantes gerenciam seus cardápios e entregadores veem pedidos para entrega.
 - Front-end: React (Vite) + JavaScript
-- Back-end: Spring Boot, Spring Data JPA, PostgreSQL
+- Back-end: Spring Boot e Spring Data JPA
 - Banco: PostgreSQL
 
 🔹 [**Jogo de Tabuleiro**](https://github.com/vitoriarodrigs/Jogodetabuleiro/tree/main/src/main/java/com/example/jogo/tabuleiro)  
