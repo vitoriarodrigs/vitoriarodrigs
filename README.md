@@ -6,7 +6,6 @@
 ### 🛠 **Tecnologias e Ferramentas**  
 [![My Skills](https://skillicons.dev/icons?i=git,html,css,js,java,spring,postgres,docker,react,python)](https://skillicons.dev)
 
-
 ### 📌 **Projetos Destacados**  
 🔹 [**🤖 Agente-RAG-Local**](https://github.com/vitoriarodrigs/Local-RAG-Agent)  
 -  um agente de IA local em Python capaz de responder perguntas com base em documentos PDF armazenados na máquina , utilizando arquitetura RAG (Retrieval-Augmented Generation).
@@ -38,3 +37,5 @@
 
 📧 **Email**: vitoriarodrigs1502@gmail.com 
 🔗 **LinkedIn**: [vitória-rodrigues](https://www.linkedin.com/in/vit%C3%B3ria-rodrigues-a0b14b191?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bs6nOXz2jQlKCuzQ03ehAIg%3D%3D)  
+
+
