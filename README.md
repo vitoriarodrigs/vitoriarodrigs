@@ -7,6 +7,15 @@
 [![My Skills](https://skillicons.dev/icons?i=git,html,css,js,java,spring,postgres,docker,react,python)](https://skillicons.dev)
 
 ### 📌 **Projetos Destacados**  
+🔹 [**🤖  Bot Gerador Automático de Atas de Reunião**](https://github.com/vitoriarodrigs/bot-gerador-de-atas-case)  
+- Projeto corporativo de automação integrado ao Microsoft Teams para geração automática de atas de reunião em PDF, utilizando transcrição de reuniões e fluxos via Power Automate. 
+A solução tem como objetivo garantir padronização, rastreabilidade e redução de esforço manual na documentação de compromissos corporativos.
+- Tecnologias Utilizadas: Microsoft Teams — Interface com o usuário
+ Microsoft Copilot Studio — Construção do bot
+ Transcrição de Reuniões — Fonte de dados textual
+ Power Automate — Execução do fluxo e formatação
+ E-mail Corporativo — Entrega do documento final
+
 🔹 [**🤖 Agente-RAG-Local**](https://github.com/vitoriarodrigs/Local-RAG-Agent)  
 -  um agente de IA local em Python capaz de responder perguntas com base em documentos PDF armazenados na máquina , utilizando arquitetura RAG (Retrieval-Augmented Generation).
 - Linguagem: Python 3.12
