@@ -8,7 +8,7 @@
 💻 **Desenvolvedora em Formação** 
 | 🎓 **Ciência da Computação - UECE**
 
-🚀 Foco Atual: Estudando Inteligencia Artificial e Desenvolvimento de Agentes 
+🚀 Foco Atual: Estudando Inteligencia Artificial e Agentes de IA / IA aplicada 
 
 ### 🛠 **Tecnologias e Ferramentas**  
 [![My Skills](https://skillicons.dev/icons?i=git,html,css,js,java,spring,postgres,docker,react,python)](https://skillicons.dev)
@@ -35,7 +35,7 @@ Sistema de delivery com usuários, restaurantes e entregadores.
 Jogo com JavaFX e Scene Builder.  
 **Stack:** Java · JavaFX · Scene Builder
 
-### 🎧 **Player estilo Spotify**
+### 🎧 **Player web inspirado no Spotify**
 📍 *Repositório:* https://github.com/vitoriarodrigs/vitoriarodrigs  
 Site que simula um player de música.  
 **Stack:** HTML · CSS · JavaScript
