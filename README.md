@@ -8,7 +8,7 @@
 💻 **Desenvolvedora em Formação** 
 | 🎓 **Ciência da Computação - UECE**
 
-🚀 Foco Atual: Estudando Inteligencia Artificial e Agentes de IA / IA aplicada 
+🚀 Foco Atual: Estudando Inteligencia Artificial e Agentes de IA / IA aplicada e Automação Inteligente
 
 ### 🛠 **Tecnologias e Ferramentas**  
 [![My Skills](https://skillicons.dev/icons?i=git,html,css,js,java,spring,postgres,docker,react,python)](https://skillicons.dev)
