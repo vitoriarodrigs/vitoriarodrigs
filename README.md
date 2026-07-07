@@ -5,8 +5,8 @@
 
 
 
-💻 **Desenvolvedora em Formação** 
-| 🎓 **Ciência da Computação - UECE**
+🎓 **Formada em Lic. em Fisica-UECE** 
+| 💻 **Em formação - Ciência da Computação - UECE ⌛**
 
 🚀 Foco Atual: Estudando Inteligencia Artificial e Agentes de IA / IA aplicada e Automação Inteligente
 
